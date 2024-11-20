@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Felipe-alice1
-- 👀 I’m interested in 
-start my career as a developer
-- 🌱 I’m currently learning html, css, javascript, php
-- 💞️ I’m looking to collaborate on 
-web development
+- 👋 Hi, I’m Felipe barboza
+- 🌱 I am currently studying systems analysis and development and studying 
+html, css, javascript.
+- 💞️  Looking for internship and work
 - 📫 How to reach me email: felipe_barboza@hotmail.com.br
 
 <!---
