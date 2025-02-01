@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Felipe barboza
-- 🌱 I am currently studying systems analysis and development and studying 
-html, css, javascript.
+- 🌱 I am currently studying systems analysis and development and studying.
 - 💞️  Looking for internship and work
 - 📫 How to reach me email: felipe_barboza@hotmail.com.br
 
